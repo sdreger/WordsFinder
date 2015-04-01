@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Settings of Words Finder programm</comment>
+<entry key="yPos">333</entry>
+<entry key="Checkbox12">0</entry>
+<entry key="Checkbox11">0</entry>
+<entry key="frameHeight">485</entry>
+<entry key="Checkbox10">1</entry>
+<entry key="xPos">683</entry>
+<entry key="Checkbox9">0</entry>
+<entry key="Checkbox8">0</entry>
+<entry key="Checkbox7">1</entry>
+<entry key="frameWidth">777</entry>
+<entry key="Checkbox6">0</entry>
+<entry key="Checkbox5">0</entry>
+<entry key="Checkbox4">1</entry>
+<entry key="Checkbox3">0</entry>
+<entry key="Checkbox2">0</entry>
+<entry key="Checkbox1">0</entry>
+<entry key="Checkbox0">0</entry>
+</properties>
