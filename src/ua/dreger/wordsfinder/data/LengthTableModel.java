@@ -16,6 +16,7 @@ import javax.swing.table.AbstractTableModel;
 /**
  *
  * @author Sergey
+ * Модель для таблицы с сортировкой слов по количеству символов
  */
 public class LengthTableModel extends AbstractTableModel{
 	private List<Word> modelList;

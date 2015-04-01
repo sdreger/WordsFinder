@@ -14,6 +14,7 @@ import javax.swing.table.AbstractTableModel;
 /**
  *
  * @author Sergey
+ * Модель для таблицы с сортировкой слов по процентной схожести с исходным словом
  */
 public class PercentTableModel extends AbstractTableModel{
 	private List<Word> modelList;

@@ -18,7 +18,7 @@ import java.util.List;
 import javax.swing.JCheckBox;
 
 /**
- * Класс для работы с БД SQLite
+ * Класс для работы с БД SQLite v 3
  * @author Sergey
  */
 public class Database {
